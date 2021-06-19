@@ -1,0 +1,6 @@
+name: MoreStructures
+version: @version@
+main: me.jishuna.morestructures.MoreStructures
+authors: [Jishuna]
+api-version: 1.16
+load: STARTUP
